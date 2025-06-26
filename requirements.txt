@@ -1,5 +1,6 @@
 # Core Django
-Django==5.2.4
+# Core Django
+
 djangorestframework==3.15.2
 djangorestframework_simplejwt==5.5.0
 psycopg2-binary==2.9.10
@@ -24,3 +25,4 @@ whitenoise==6.6.0
 tensorflow_cpu==2.19.0  # Only if AI features need it
 geopy==2.4.1  # Only if location services needed
 razorpay==1.4.2  # Only if payment processing needed
+Django==4.2.9
