@@ -1,2 +1,4 @@
-# django-fitza
-Django Backend for Fitza - E-commerce Dress Selling Platform
+# fitza-ecommerce-backend
+
+Django backend for Fitza - E-commerce Dress Selling Platform built with Django and Django REST Framework.
+
