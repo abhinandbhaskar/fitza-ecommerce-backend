@@ -1,0 +1,4 @@
+# Create/update .ebignore (in your project root)
+echo "venv/" >> .ebignore
+echo "__pycache__/" >> .ebignore
+echo "*.env" >> .ebignore
