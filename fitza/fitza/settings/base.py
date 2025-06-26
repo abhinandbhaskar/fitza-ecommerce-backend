@@ -423,12 +423,12 @@ LOGGING = {
 
 #AI
 
-CACHES = {
-    'default': {
-        'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
-        'LOCATION': 'ai-recommender-cache',
-    }
-}
+# CACHES = {
+#     'default': {
+#         'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
+#         'LOCATION': 'ai-recommender-cache',
+#     }
+# }
 
 
 # try:
